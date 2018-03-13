@@ -38,7 +38,7 @@
 
 Ссылка на эту страницу: [l.mobilmir.ru/LinksForRetailDepts](http://l.mobilmir.ru/LinksForRetailDepts)
 
-Есть, что надо добавить на эту страницу? Нашли ошибку? Сообщите об этом [на фабрике идей][LinksForRetailDeptsFI] или [письмом][LinksForRetailDeptsMail], пожалуйста!
+Есть, что добавить на эту страницу? Нашли ошибку? Сообщите об этом [на фабрике идей][LinksForRetailDeptsFI] или [письмом][LinksForRetailDeptsMail], пожалуйста!
 
 
 [ITTaskImg]: https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png
@@ -87,13 +87,13 @@ https://docs.google.com/a/mobilmir.ru/forms/d/1t1M_75M0NCaud6cTfBWnB7EFLvQ40NYrm
 
 <%= 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-6919929-15', 'auto');
-  ga('send', 'pageview');
+ ga('create', 'UA-6919929-15', 'auto');
+ ga('send', 'pageview');
 
 </script>
 %>
