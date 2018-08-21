@@ -1,99 +1,124 @@
-####Заявки
-
-&nbsp; | С чем проблема | Ответственый | Как отправить заявку
-:--:|:--|:--|:--
-![][ITTaskImg] | Компьютеры, нотубуки, Рарус[\*][resolvefaster] | ИТ | [Сайт][NewTaskFreshService]<br>или<br>[it-task@status.mobilmir.ru][mailittask]
-![][ExchangeFileImg] | Не дошла выгрузка[\*][WhatIsExchangeFiles] | ИТ | [форма Google][ExchangeNotArrive] ([#][ExchangeNotArriveList])
-![][AXOTaskImg] | Свет, мебель, ремонт помещений | АХД | [aho-task@status.mobilmir.ru][AXOTask]
-![][ReklamaTaskImg] | Вывески, стенды, реклама | Служба рекламы / NRG | [reklama-task@status.mobilmir.ru][ReklamaTask]
-![][PrintersCartridgesImg] | Принтеры[\*][PrintersTasksTip] и картриджи | Сухарев А. С. | [officeequipment@status.mobilmir.ru](mailto:officeequipment@status.mobilmir.ru)
-![][TerminalsImg] | терминалы[\*][TerminalsTip] | Сухарев А. С. | [terminals@status.mobilmir.ru](mailto:terminals@status.mobilmir.ru)
-![][TerminalCheckImg] | платежи | Сухарев А. С. | [payquery@status.mobilmir.ru](mailto:payquery@status.mobilmir.ru "Запросы по платежам")
+---
 
 
 ---
 
-####Запросы ТМЦ
+<p>####Заявки</p>
 
-&nbsp; | &nbsp; | &nbsp;
-:--:|:--:|:--:
-Фирменная одежда / форма сотрудников<br>(служба персонала) | Аксессуары, канцтовары<br>(координатор розницы)
-[![][FormQImg] запросить][FormQuery] | [![][AssetsImg] запросить][AssetsQ]
+<table>
+<thead>
+<tr>
+<th align="center">&nbsp;</th>
+<th align="left">С чем проблема</th>
+<th align="left">Ответственый</th>
+<th align="left">Как отправить заявку</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png" alt=""></td>
+<td align="left">Компьютеры, нотубуки, Рарус<a href="http://itmobilmirru.freshservice.com/support/solutions/articles/10994--" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее">*</a></td>
+<td align="left">ИТ</td>
+<td align="left"><a href="http://itmobilmirru.freshservice.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">Сайт</a><br>или<br><a href="mailto:it-task@status.mobilmir.ru?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0D%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2." title="Эта ссылка содержит шаблон письма. Пожалуйста, не игнорируйте его содержимое!">it-task@status.mobilmir.ru</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/okESUI7.png" alt=""></td>
+<td align="left">Не дошла выгрузка<a href="http://l.mobilmir.ru/whatisrarusexchangefile" title="щёлкните, чтобы открыть страницу с описанием, что такое выгрузки">*</a></td>
+<td align="left">ИТ</td>
+<td align="left"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform">форма Google</a> (<a href="https://docs.google.com/spreadsheets/u/1/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview" title="Список заявок с состояниями">#</a>)</td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/6el4OmS.jpg?1" alt=""></td>
+<td align="left">Свет, мебель, ремонт помещений</td>
+<td align="left">АХД</td>
+<td align="left"><a href="mailto:aho-task@status.mobilmir.ru?subject=%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B0:%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82,%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D0%BD%D0%B0%D0%B4%D0%BE%20%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D1%82%D1%8C,%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20%D0%B8%20%D1%82.%D0%BF.&amp;body=%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%D0%BB%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8">aho-task@status.mobilmir.ru</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/P9NSAby.png?1" alt=""></td>
+<td align="left">Вывески, стенды, реклама</td>
+<td align="left">Служба рекламы / NRG</td>
+<td align="left"><a href="mailto:reklama-task@status.mobilmir.ru?subject=%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B0:%20%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%BE%20%D1%81%D1%83%D1%82%D1%8C&amp;body=%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%D0%BB%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8">reklama-task@status.mobilmir.ru</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/HklVFwB.png" alt=""></td>
+<td align="left">Принтеры<a href="http://itmobilmirru.freshservice.com/support/solutions/articles/10732" title="насчёт принтеров – не всегда; щелкните, чтобы узнать подробности">*</a> и картриджи</td>
+<td align="left">Сухарев А. С.</td>
+<td align="left"><a href="mailto:officeequipment@status.mobilmir.ru">officeequipment@status.mobilmir.ru</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/ChuuGD0.png" alt=""></td>
+<td align="left">терминалы<a href="#" title="терминалы, принимающие наличные (сейчас Роспей)">*</a></td>
+<td align="left">Сухарев А. С.</td>
+<td align="left"><a href="mailto:terminals@status.mobilmir.ru">terminals@status.mobilmir.ru</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/ta1wmgb.png" alt=""></td>
+<td align="left">платежи</td>
+<td align="left">Сухарев А. С.</td>
+<td align="left"><a href="mailto:payquery@status.mobilmir.ru" title="Запросы по платежам">payquery@status.mobilmir.ru</a></td>
+</tr>
+</tbody>
+</table><hr>
+<p>####Запросы ТМЦ</p>
 
+<table>
+<thead>
+<tr>
+<th align="center">&nbsp;</th>
+<th align="center">&nbsp;</th>
+<th align="center">&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Фирменная одежда / форма сотрудников<br>(служба персонала)</td>
+<td align="center">Аксессуары, канцтовары<br>(координатор розницы)</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/e/1FAIpQLSc04h9SljTRCWkuEiDCoSouedWuk9Gbscd97CLqt8c6jQWQ5A/viewform"><img src="http://i.imgur.com/AR56YZI.png" alt=""> запросить</a></td>
+<td align="center"><a href="https://docs.google.com/a/mobilmir.ru/spreadsheet/viewform?formkey=dHd4cmZPbUpGSDNIMlVFczY0MTJ0YVE6MQ"><img src="http://i.imgur.com/sAzaYLi.png" alt=""> запросить</a></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table><hr>
+<h4 id="полезная-информация">Полезная информация</h4>
 
----
-#### Полезная информация
+<table>
+<thead>
+<tr>
+<th align="center">&nbsp;</th>
+<th align="center">&nbsp;</th>
+<th align="left">&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="http://i.imgur.com/EqtgZGh.png" alt=""><br>Служба по работе с операторами</td>
+<td align="center"><a href="https://drive.google.com/a/mobilmir.ru/folderview?id=0B3v6tF6UW2aGYm9STkJYUWRnVTQ&amp;usp=sharing" title="Информация от службы по работе с операторами на диске Google"><img src="http://i.imgur.com/Z9PH8MI.png" alt=""></a></td>
+<td align="left"><a href="https://drive.google.com/a/mobilmir.ru/folderview?id=0B3v6tF6UW2aGYm9STkJYUWRnVTQ&amp;usp=sharing" title="Информация от службы по работе с операторами на диске Google">Бланки, инструкции, реклама и формальные документы</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/PghXiFf.png" alt=""><br>Администрация розницы</td>
+<td align="center"><a href="https://drive.google.com/drive/folders/0B2X-6fVbs2DydGJoWUFPRWZRckE" title="Планы продаж на диске Google"><img src="http://i.imgur.com/Z9PH8MI.png" alt=""></a></td>
+<td align="left"><a href="https://drive.google.com/drive/folders/0B2X-6fVbs2DydGJoWUFPRWZRckE" title="Планы продаж на диске Google">Планы продаж</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/4HIgfgg.png" alt=""><br>Юридическая служба</td>
+<td align="center"><a href="https://docs.google.com/spreadsheets/d/13RFwnirgbfalVo1FY-bTGg8EcaZaVEawqkiyRZKUPgQ/preview" title="Таблица статусов заявлений (претензий) на диске Google"><img src="http://i.imgur.com/RRSkBkl.png" alt=""></a></td>
+<td align="left"><a href="https://docs.google.com/spreadsheets/d/13RFwnirgbfalVo1FY-bTGg8EcaZaVEawqkiyRZKUPgQ/preview" title="Таблица статусов заявлений (претензий) на диске Google">Статусы заявлений (ремонт, обмен, возврат)</a></td>
+</tr>
+<tr>
+<td align="center"><img src="http://i.imgur.com/xdklML6.png" alt=""><br>ИТ</td>
+<td align="center"><a href="https://sites.google.com/a/mobilmir.ru/help/rules/info-for-newbies-in-retaildepts" title="Информация для новых сотрудников розницы"><img src="https://www.google.com/images/icons/product/sites-16.ico" alt=""></a></td>
+<td align="left"><a href="https://sites.google.com/a/mobilmir.ru/help/rules/info-for-newbies-in-retaildepts" title="Информация для новых сотрудников розницы">help.mobilmir.ru → Информация для новых сотрудников розницы</a></td>
+</tr>
+</tbody>
+</table><hr>
+<h3 id="об-этой-странице">Об этой странице</h3>
+<p>Ссылка на эту страницу: <a href="http://l.mobilmir.ru/LinksForRetailDepts">l.mobilmir.ru/LinksForRetailDepts</a></p>
+<p>Есть, что добавить на эту страницу? Нашли ошибку? Сообщите об этом <a href="http://i.mobilmir.ru/ideas/?PAGE_NAME=message&amp;FID=5&amp;TID=992&amp;MID=12984&amp;result=new" title="Фабрика идей">на фабрике идей</a> или <a href="mailto:retail-bookmarks@status.mobilmir.ru?subject=%D0%97%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%BE%D0%B7%D0%BD%D0%B8%D1%86%D1%8B">письмом</a>, пожалуйста!</p>
+<p>&lt;%=</p>
 
-&nbsp; | &nbsp; | &nbsp;
-:--:|:--:|:--
-![][MTSBeeMega]<br>Служба по работе с операторами | [![][GoogleDriveIcon]][CommOpsGD] | [Бланки, инструкции, реклама и формальные документы][CommOpsGD]
-![](http://i.imgur.com/PghXiFf.png)<br>Администрация розницы | [![][GoogleDriveIcon]][SalesPlansGD] | [Планы продаж][SalesPlansGD]
-![](http://i.imgur.com/4HIgfgg.png)<br>Юридическая служба | [![][GoogleSheetIcon]][ClaimStatuses] | [Статусы заявлений (ремонт, обмен, возврат)][ClaimStatuses]
-![](http://i.imgur.com/xdklML6.png)<br>ИТ | [![][GoogleSitesIcon]][info-for-newbies-in-retaildepts] | [help.mobilmir.ru → Информация для новых сотрудников розницы][info-for-newbies-in-retaildepts]
+<p>%&gt;</p>
 
-
-----------
-
-### Об этой странице
-
-Ссылка на эту страницу: [l.mobilmir.ru/LinksForRetailDepts](http://l.mobilmir.ru/LinksForRetailDepts)
-
-Есть, что добавить на эту страницу? Нашли ошибку? Сообщите об этом [на фабрике идей][LinksForRetailDeptsFI] или [письмом][LinksForRetailDeptsMail], пожалуйста!
-
-
-[ITTaskImg]: https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png
-[NewTaskFreshService]: http://itmobilmirru.freshservice.com/support/tickets/new "обратите внимание, после ввода темы справа появляются готовые решения"
-[mailittask]: mailto:it-task@status.mobilmir.ru?subject=суть%20проблемы%20и%20название%20устройства%20или%20программы,%20в%20которой%20она%20возникает&body=что%20вы%20делаете,%20что%20происходит%20сейчас,%20и%20как%20должно%20быть,%20когда%20всё%20работает%20нормально.%0D%0AПросим%20описывать%20так,%20чтобы%20можно%20было%20проверить%20без%20дополнительных%20вопросов. "Эта ссылка содержит шаблон письма. Пожалуйста, не игнорируйте его содержимое!"
-[resolvefaster]: http://itmobilmirru.freshservice.com/support/solutions/articles/10994-- "Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее"
-[ExchangeNotArrive]: https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform
-[ExchangeNotArriveImg]: http://i.imgur.com/bTUFlXU.png
-[ExchangeNotArriveList]: https://docs.google.com/spreadsheets/u/1/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview "Список заявок с состояниями"
-[WhatIsExchangeFiles]: http://l.mobilmir.ru/whatisrarusexchangefile "щёлкните, чтобы открыть страницу с описанием, что такое выгрузки"
-
-[AXOTaskImg]: http://i.imgur.com/6el4OmS.jpg?1
-[AXOTask]: mailto:aho-task@status.mobilmir.ru?subject=Название%20отдела:%20Предмет,%20который%20надо%20починить,%20установить%20и%20т.п.&amp;body=Подробное%20описание%20проблемы%20или%20задачи
-
-[ReklamaTaskImg]: http://i.imgur.com/P9NSAby.png?1
-[ReklamaTask]: mailto:reklama-task@status.mobilmir.ru?subject=Название%20отдела:%20Кратко%20суть&amp;body=Подробное%20описание%20проблемы%20или%20задачи
-
-[PrintersTasksTip]: http://itmobilmirru.freshservice.com/support/solutions/articles/10732 "насчёт принтеров – не всегда; щелкните, чтобы узнать подробности"
-[TerminalsTip]: # "терминалы, принимающие наличные (сейчас Роспей)"
-[LinksForRetailDeptsFI]: http://i.mobilmir.ru/ideas/?PAGE_NAME=message&FID=5&TID=992&MID=12984&result=new "Фабрика идей"
-[CommOpsGD]: https://drive.google.com/a/mobilmir.ru/folderview?id=0B3v6tF6UW2aGYm9STkJYUWRnVTQ&usp=sharing "Информация от службы по работе с операторами на диске Google"
-[SalesPlansGD]: https://drive.google.com/drive/folders/0B2X-6fVbs2DydGJoWUFPRWZRckE "Планы продаж на диске Google"
-[ClaimStatuses]: https://docs.google.com/spreadsheets/d/13RFwnirgbfalVo1FY-bTGg8EcaZaVEawqkiyRZKUPgQ/preview "Таблица статусов заявлений (претензий) на диске Google"
-[info-for-newbies-in-retaildepts]: https://sites.google.com/a/mobilmir.ru/help/rules/info-for-newbies-in-retaildepts "Информация для новых сотрудников розницы"
-[LinksForRetailDeptsMail]: mailto:retail-bookmarks@status.mobilmir.ru?subject=Закладки%20для%20розницы
-
-[HRQueries]: https://docs.google.com/a/mobilmir.ru/spreadsheet/viewform?formkey=dEJfSEpMV181U0NraGVoX0JYcDBFNWc6MQ#gid=0
-[HRQueriesImg]: http://i.imgur.com/59S2ODX.png
-[FormQuery]: https://docs.google.com/a/mobilmir.ru/forms/d/e/1FAIpQLSc04h9SljTRCWkuEiDCoSouedWuk9Gbscd97CLqt8c6jQWQ5A/viewform
-[FormQImg]: http://i.imgur.com/AR56YZI.png
-[AssetsQ]: https://docs.google.com/a/mobilmir.ru/spreadsheet/viewform?formkey=dHd4cmZPbUpGSDNIMlVFczY0MTJ0YVE6MQ
-[AssetsImg]: http://i.imgur.com/sAzaYLi.png
-[ChecksTicketsQ]: 
-https://docs.google.com/a/mobilmir.ru/forms/d/1t1M_75M0NCaud6cTfBWnB7EFLvQ40NYrmQvChVqJo9Q/viewform?pli=1
-[ChecksTicketsImg]: http://i.imgur.com/JzqWCUs.png
-[PrintersCartridgesImg]: http://i.imgur.com/HklVFwB.png
-[TerminalsImg]: http://i.imgur.com/ChuuGD0.png
-[RarusWideImg]: http://i.imgur.com/Rzh3O8Z.png
-[ExchangeFileImg]: http://i.imgur.com/okESUI7.png
-[TerminalCheckImg]: http://i.imgur.com/ta1wmgb.png
-[MTSBeeMega]: http://i.imgur.com/EqtgZGh.png
-
-[GoogleDriveIcon]: http://i.imgur.com/Z9PH8MI.png
-[GoogleSheetIcon]: http://i.imgur.com/RRSkBkl.png
-[GoogleSitesIcon]: https://www.google.com/images/icons/product/sites-16.ico
-
-<%= 
-<script>
- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
- (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
- m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
- ga('create', 'UA-6919929-15', 'auto');
- ga('send', 'pageview');
-
-</script>
-%>
