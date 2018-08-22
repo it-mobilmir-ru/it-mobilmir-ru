@@ -118,7 +118,5 @@
 <h3 id="об-этой-странице">Об этой странице</h3>
 <p>Ссылка на эту страницу: <a href="http://l.mobilmir.ru/LinksForRetailDepts">l.mobilmir.ru/LinksForRetailDepts</a></p>
 <p>Есть, что добавить на эту страницу? Нашли ошибку? Сообщите об этом <a href="http://i.mobilmir.ru/ideas/?PAGE_NAME=message&amp;FID=5&amp;TID=992&amp;MID=12984&amp;result=new" title="Фабрика идей">на фабрике идей</a> или <a href="mailto:retail-bookmarks@status.mobilmir.ru?subject=%D0%97%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%BE%D0%B7%D0%BD%D0%B8%D1%86%D1%8B">письмом</a>, пожалуйста!</p>
-<p>&lt;%=</p>
 
-<p>%&gt;</p>
 
