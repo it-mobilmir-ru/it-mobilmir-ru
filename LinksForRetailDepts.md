@@ -105,16 +105,6 @@
 <td align="left"><a href="https://drive.google.com/a/mobilmir.ru/folderview?id=0B3v6tF6UW2aGYm9STkJYUWRnVTQ&amp;usp=sharing" title="Информация от службы по работе с операторами на диске Google">Бланки, инструкции, реклама и формальные документы</a></td>
 </tr>
 <tr>
-<td align="center"><img src="http://i.imgur.com/PghXiFf.png" alt=""><br>Администрация розницы</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/0B2X-6fVbs2DydGJoWUFPRWZRckE" title="Планы продаж на диске Google"><img src="http://i.imgur.com/Z9PH8MI.png" alt=""></a></td>
-<td align="left"><a href="https://drive.google.com/drive/folders/0B2X-6fVbs2DydGJoWUFPRWZRckE" title="Планы продаж на диске Google">Планы продаж</a></td>
-</tr>
-<tr>
-<td align="center"><img src="http://i.imgur.com/4HIgfgg.png" alt=""><br>Юридическая служба</td>
-<td align="center"><a href="https://docs.google.com/spreadsheets/d/13RFwnirgbfalVo1FY-bTGg8EcaZaVEawqkiyRZKUPgQ/preview" title="Таблица статусов заявлений (претензий) на диске Google"><img src="http://i.imgur.com/RRSkBkl.png" alt=""></a></td>
-<td align="left"><a href="https://docs.google.com/spreadsheets/d/13RFwnirgbfalVo1FY-bTGg8EcaZaVEawqkiyRZKUPgQ/preview" title="Таблица статусов заявлений (претензий) на диске Google">Статусы заявлений (ремонт, обмен, возврат)</a></td>
-</tr>
-<tr>
 <td align="center"><img src="http://i.imgur.com/xdklML6.png" alt=""><br>ИТ</td>
 <td align="center"><a href="https://sites.google.com/a/mobilmir.ru/help/rules/info-for-newbies-in-retaildepts" title="Информация для новых сотрудников розницы"><img src="https://www.google.com/images/icons/product/sites-16.ico" alt=""></a></td>
 <td align="left"><a href="https://sites.google.com/a/mobilmir.ru/help/rules/info-for-newbies-in-retaildepts" title="Информация для новых сотрудников розницы">help.mobilmir.ru → Информация для новых сотрудников розницы</a></td>
