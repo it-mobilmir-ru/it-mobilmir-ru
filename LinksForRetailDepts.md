@@ -16,16 +16,22 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png" alt=""></td>
-<td align="left">Компьютеры, нотубуки, Рарус<a href="http://itmobilmirru.freshservice.com/support/solutions/articles/10994--" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее">*</a></td>
-<td align="left">ИТ</td>
-<td align="left"><a href="http://itmobilmirru.freshservice.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">Сайт</a><br>или<br><a href="mailto:it-task@status.mobilmir.ru?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0D%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2." title="Эта ссылка содержит шаблон письма. Пожалуйста, не игнорируйте его содержимое!">it-task@status.mobilmir.ru</a></td>
+<td align="center"><img src="https://it-mobilmir-ru.github.io/pic/1srozn8.png" alt=""></td>
+<td align="left">1С 8: Розница, 1С‑Рарус</td>
+<td align="left">Отдел сопровождения и разработки 1C</td>
+<td align="left"><a href="mailto:1s-task@status.mobilmir.ru">1s-task@status.mobilmir.ru</a></td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/okESUI7.png" alt=""></td>
 <td align="left">Не дошла выгрузка<a href="http://l.mobilmir.ru/whatisrarusexchangefile" title="щёлкните, чтобы открыть страницу с описанием, что такое выгрузки">*</a></td>
-<td align="left">ИТ</td>
+<td align="left">Отдел сопровождения и разработки 1C</td>
 <td align="left"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform">форма Google</a> (<a href="https://docs.google.com/spreadsheets/u/1/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview" title="Список заявок с состояниями">#</a>)</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png" alt=""></td>
+<td align="left">Компьютеры, ноутбуки<a href="http://itmobilmirru.freshservice.com/support/solutions/articles/10994--" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее">*</a></td>
+<td align="left">Отдел сопровождения ИТ</td>
+<td align="left"><a href="http://itmobilmirru.freshservice.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">Сайт</a><br>или<br><a href="mailto:it-task@status.mobilmir.ru?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0D%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2." title="Эта ссылка содержит шаблон письма. Пожалуйста, не игнорируйте его содержимое!">it-support@status.mobilmir.ru</a></td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/6el4OmS.jpg?1" alt=""></td>
