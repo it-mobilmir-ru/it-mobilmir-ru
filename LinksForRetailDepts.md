@@ -10,7 +10,7 @@
 <tr>
 <th align="center">&nbsp;</th>
 <th align="left">С чем проблема</th>
-<th align="left">Ответственый</th>
+<th align="left">Ответственный</th>
 <th align="left">Как отправить заявку</th>
 </tr>
 </thead>
