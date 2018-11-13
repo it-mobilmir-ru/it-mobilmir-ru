@@ -47,13 +47,13 @@
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/HklVFwB.png" alt=""></td>
-<td align="left">Принтеры<a href="http://itmobilmirru.freshservice.com/support/solutions/articles/10732" title="насчёт принтеров – не всегда; щелкните, чтобы узнать подробности">*</a> и картриджи</td>
+<td align="left">Принтеры<a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429755" title="насчёт принтеров – не всегда; щелкните, чтобы узнать подробности">*</a> и картриджи</td>
 <td align="left">Сухарев А. С.</td>
 <td align="left"><a href="mailto:officeequipment@status.mobilmir.ru">officeequipment@status.mobilmir.ru</a></td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ChuuGD0.png" alt=""></td>
-<td align="left">терминалы<a href="#" title="терминалы, принимающие наличные (сейчас Роспей)">*</a></td>
+<td align="left">терминалы, принимающие наличные (сейчас Роспей)</td>
 <td align="left">Сухарев А. С.</td>
 <td align="left"><a href="mailto:terminals@status.mobilmir.ru">terminals@status.mobilmir.ru</a></td>
 </tr>
