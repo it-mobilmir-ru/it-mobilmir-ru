@@ -24,7 +24,7 @@
 <tr>
 <td align="center"><img src="http://i.imgur.com/okESUI7.png" alt=""></td>
 <td align="left">Не дошла выгрузка<a href="http://l.mobilmir.ru/whatisrarusexchangefile" title="щёлкните, чтобы открыть страницу с описанием, что такое выгрузки">*</a></td>
-<td align="left">Отдел сопровождения и разработки 1C</td>
+<td align="left">Голик С. В.</td>
 <td align="left"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform">форма Google</a> (<a href="https://docs.google.com/spreadsheets/u/1/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview" title="Список заявок с состояниями">#</a>)</td>
 </tr>
 <tr>
