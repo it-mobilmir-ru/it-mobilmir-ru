@@ -10,8 +10,8 @@
 <tr>
 <th align="center">&nbsp;</th>
 <th align="left">С чем проблема</th>
-<th align="left">Как отправить заявку</th>
-<th align="left">Ответственный</th>
+<th align="left">Куда отправить заявку</th>
+<th align="left">Кто получит заявку</th>
 </tr>
 </thead>
 <tbody>
@@ -24,14 +24,14 @@
 <tr>
 <td align="center"><img src="http://i.imgur.com/okESUI7.png" alt=""></td>
 <td align="left">Не дошла выгрузка<a href="http://l.mobilmir.ru/whatisrarusexchangefile" title="щёлкните, чтобы открыть страницу с описанием, что такое выгрузки">*</a></td>
-<td align="left"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform">📝 форма Google</a></td>
-<td align="left">Голик С. В. (<a href="https://docs.google.com/spreadsheets/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview#gid=0" title="Список заявок с состояниями">список заявок</a>)</td>
+<td align="left"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform">📝 форма</a></td>
+<td align="left">Голик С. В. (<a href="https://docs.google.com/spreadsheets/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview#gid=0" title="Список заявок с состояниями">🗄 список заявок</a>)</td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png" alt=""></td>
-<td align="left">Компьютеры, ноутбуки</td>
-<td align="left"><a href="https://itmobilmirru.freshdesk.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">📝 Сайт</a> <a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429747" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее">*</a><br>или<br><a href="mailto:support@itmobilmirru.freshdesk.com?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0A%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%20%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D0%B5,%20%D0%BD%D0%B5%20%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D0%B2%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5." title="Эта ссылка содержит шаблон письма. Пожалуйста, прочитайте его но не оставляйте в письме!">✉️ it-support</a></td>
-<td align="left">Отдел сопровождения ИТ (<a href="https://itmobilmirru.freshdesk.com/auth/google_login">📑 список заявок</a>)</td>
+<td align="left">💻🖥 Компьютеры <a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429747" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее">*</a>, сеть</td>
+<td align="left"><a href="https://itmobilmirru.freshdesk.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">📝 Сайт</a><br>или<br><a href="mailto:support@itmobilmirru.freshdesk.com?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0A%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%20%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D0%B5,%20%D0%BD%D0%B5%20%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D0%B2%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5." title="Эта ссылка содержит шаблон письма. Пожалуйста, прочитайте его но не оставляйте в письме!">✉️ it-support</a></td>
+<td align="left">Отдел сопровождения ИТ (<a href="https://itmobilmirru.freshdesk.com/auth/google_login">🗄 список заявок</a>)</td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/6el4OmS.jpg?1" alt=""></td>
@@ -49,13 +49,13 @@
 <td align="center"><img src="http://i.imgur.com/HklVFwB.png" alt=""></td>
 <td align="left">Принтеры<a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429755" title="насчёт принтеров – не всегда; щелкните, чтобы узнать подробности">*</a> и картриджи</td>
 <td align="left"><a href="mailto:diverse@mobilmir.ru,evgenij.vishnevskij@mobilmir.ru,helpdesk@status.mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ officeequipment</a></td>
-<td align="left">Сухарев А. С.</td>
+<td align="left">Сухарев А. С., Вишневский Е., Винокуров М.</td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ChuuGD0.png" alt=""></td>
 <td align="left">терминалы, принимающие наличные (сейчас Роспей)</td>
 <td align="left"><a href="mailto:diverse@mobilmir.ru,helpdesk@status.mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ terminals</a></td>
-<td align="left">Сухарев А. С.</td>
+<td align="left">Сухарев А. С., Винокуров М.</td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ta1wmgb.png" alt=""></td>
