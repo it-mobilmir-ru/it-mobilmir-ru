@@ -59,7 +59,7 @@
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ChuuGD0.png" alt=""></td>
-<td align="left">терминалы, принимающие наличные (сейчас Роспей)</td>
+<td align="left">терминалы, принимающие наличные</td>
 <td align="left"><a href="mailto:diverse@mobilmir.ru,helpdesk@status.mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ terminals@status.…</a></td>
 <td align="left">Сухарев А. С., Винокуров М.</td>
 </tr>
