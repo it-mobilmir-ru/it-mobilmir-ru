@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ta1wmgb.png" alt=""></td>
-<td align="left">платежи</td>
+<td align="left">платежи через терминалы</td>
 <td align="left"><a href="mailto:diverse@mobilmir.ru,helpdesk@status.mobilmir.ru">✉️ payquery@status.…</a></td>
 <td align="left">Сухарев А. С.</td>
 </tr>
