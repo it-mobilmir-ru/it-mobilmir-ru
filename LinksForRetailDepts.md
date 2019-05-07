@@ -22,12 +22,6 @@
 <td align="left">Отдел сопровождения и разработки 1C</td>
 </tr>
 <tr>
-<td align="center"><img src="http://i.imgur.com/okESUI7.png" alt=""></td>
-<td align="left">Не дошла выгрузка<a href="http://l.mobilmir.ru/whatisrarusexchangefile" title="щёлкните, чтобы открыть страницу с описанием, что такое выгрузки">*</a></td>
-<td align="left"><a href="https://docs.google.com/a/mobilmir.ru/forms/d/1PsN5CCNNvUWXdpURKXuiF_KN2TAMIoEiFBDvMRqzthw/viewform">📝 форма</a></td>
-<td align="left">Голик С. В. (<a href="https://docs.google.com/spreadsheets/d/12xY7ch91QuJvBnxA3IWWWvQpDHwjpUU0UtlxHcROfY0/preview#gid=0" title="Список заявок с состояниями">🗄 список заявок</a>)</td>
-</tr>
-<tr>
 <td align="center">ФИ</td>
 <td align="left">Фабрика идей <a href="http://i.mobilmir.ru">i.mobilmir.ru</a></td>
 <td align="left"><a href="mailto:i.mobilmir.ru@status.mobilmir.ru">✉️ i.mobilmir.ru@status.…</a></td>
