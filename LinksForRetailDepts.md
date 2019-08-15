@@ -10,7 +10,7 @@
 <tr>
 <th align="center">&nbsp;</th>
 <th align="left">С чем проблема</th>
-<th align="left">Куда отправить заявку</th>
+<th align="left">Как сообщить</th>
 <th align="left">Кто получит заявку</th>
 </tr>
 </thead>
@@ -18,7 +18,7 @@
 <tr>
 <td align="center">&nbsp;</td>
 <td align="left">Цены, распределение и закупка товара</td>
-<td align="left">см. <a href="#prodmanagers">ниже</a>, в разделе «Полезная информация».</td>
+<td align="left">Звонить ответственному менеджеру (смотрите в <a href="https://docs.google.com/document/d/11j_W2A4HRJ4ntHVcjPwMLGcvLygj0ebLdyjUHe8lOYQ/edit">документе</a>)</td>
 <td align="left">Отдел закупок</td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@
 <tr>
 <td align="center"><img src="https://cdn1.iconfinder.com/data/icons/gamedevtycoon-platforms/128/PC-2.png" alt=""></td>
 <td align="left">Компьютеры, ноутбуки, сеть, ИБП<br>+&nbsp;Установленные на компьютерах программы<br>+&nbsp;Сайты, кроме указанных выше</td>
-<td align="left"><a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429747" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их разрешали быстрее">*</a> <a href="https://itmobilmirru.freshdesk.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">📝 Сайт</a><br>или<br><a href="mailto:it-support@status.mobilmir.ru?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0A%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%20%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D0%B5,%20%D0%BD%D0%B5%20%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D0%B2%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5." title="Эта ссылка содержит шаблон письма. Пожалуйста, прочитайте его но не оставляйте в письме!">✉️ it-support@status.…</a></td>
+<td align="left"><a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429747" title="Щёлкните, чтобы прочитать, как делать заявки, чтобы мы их решали быстрее">*</a> <a href="https://itmobilmirru.freshdesk.com/support/tickets/new" title="обратите внимание, после ввода темы справа появляются готовые решения">📝 Сайт</a><br>или<br><a href="mailto:it-support@status.mobilmir.ru?subject=%D1%81%D1%83%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BE%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82&amp;body=%D1%87%D1%82%D0%BE%20%D0%B2%D1%8B%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81,%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C,%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.%0A%0A%D0%9F%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA,%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%20%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D0%B5,%20%D0%BD%D0%B5%20%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D0%B2%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5." title="Эта ссылка содержит шаблон письма. Пожалуйста, прочитайте его но не оставляйте в письме!">✉️ it-support@status.…</a></td>
 <td align="left">Отдел сопровождения ИТ (<a href="https://itmobilmirru.freshdesk.com/auth/google_login" title="https://itmobilmirru.freshdesk.com/support/tickets">🗄 список заявок</a>)</td>
 </tr>
 <tr>
@@ -88,11 +88,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td align="center"><a id="prodmanagers"></a>Отдел закупок</td>
-<td align="center">&nbsp;</td>
-<td align="left"><a href="https://docs.google.com/document/d/11j_W2A4HRJ4ntHVcjPwMLGcvLygj0ebLdyjUHe8lOYQ/edit">Распределение и закупка товара (ответственные)</a></td>
-</tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/EqtgZGh.png" alt=""><br>Служба по работе с операторами</td>
 <td align="center"><a href="https://drive.google.com/a/mobilmir.ru/folderview?id=0B3v6tF6UW2aGYm9STkJYUWRnVTQ&amp;usp=sharing" title="Информация от службы по работе с операторами на диске Google"><img src="http://i.imgur.com/Z9PH8MI.png" alt=""></a></td>
