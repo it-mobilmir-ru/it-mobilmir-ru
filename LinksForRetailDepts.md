@@ -53,20 +53,20 @@
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/HklVFwB.png" alt=""></td>
-<td align="left">🖨️ Принтеры<a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429755" title="насчёт принтеров – не всегда; щелкните, чтобы узнать подробности">*</a> и картриджи</td>
-<td align="left"><a href="mailto:diverse@mobilmir.ru,evgenij.vishnevskij@mobilmir.ru,helpdesk@mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ officeequipment@…</a></td>
+<td align="left">🖨️ Ремонт оргтехники, ККТ и заправка картриджей<a href="https://itmobilmirru.freshdesk.com/solution/articles/43000429755"></a> и картриджи</td>
+<td align="left"><a href="mailto:diverse@mobilmir.ru,evgenij.vishnevskij@mobilmir.ru,officeequipment@mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ officeequipment@…</a></td>
 <td align="left">Сухарев А. С., Вишневский Е., Винокуров М.</td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ChuuGD0.png" alt=""></td>
 <td align="left">терминалы, принимающие наличные</td>
-<td align="left"><a href="mailto:diverse@mobilmir.ru,helpdesk@mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ terminals@mobilmir.ru</a></td>
+<td align="left"><a href="mailto:diverse@mobilmir.ru,terminals@mobilmir.ru,maksim.vinokurov@mobilmir.ru">✉️ terminals@mobilmir.ru</a></td>
 <td align="left">Сухарев А. С., Винокуров М.</td>
 </tr>
 <tr>
 <td align="center"><img src="http://i.imgur.com/ta1wmgb.png" alt=""></td>
 <td align="left">платежи через терминалы</td>
-<td align="left"><a href="mailto:diverse@mobilmir.ru,helpdesk@mobilmir.ru">✉️ payquery@mobilmir.ru</a></td>
+<td align="left"><a href="mailto:diverse@mobilmir.ru,payquery@mobilmir.ru">✉️ payquery@mobilmir.ru</a></td>
 <td align="left">Сухарев А. С.</td>
 </tr>
 <tr>
